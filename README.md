@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at **Paytm as a Software Engineer**
 
-- 🌱 I’m familiar with **FastAPI, Gunicorn, Pytest, Android Studio, Apache Kafka, Pyspark, PySQL**
+- 🌱 I’m familiar with **Java, C, Python, MySQL, FastAPI, Gunicorn, Pytest, Android Studio, Apache Kafka, Pyspark, PySQL**
 
 - 📫 Contaxt me at **arjitmishra1804@gmail.com**
 
-- 📄 Know about my experiences (Arjit's Resume)[https://drive.google.com/file/d/1dRjMnONADNbWOsRL288NJoIoQIPQAl0M/view?usp=sharing](https://drive.google.com/file/d/1dRjMnONADNbWOsRL288NJoIoQIPQAl0M/view?usp=sharing)
+- 📄 Know about my experiences [Arjit's Resume](https://drive.google.com/file/d/1dRjMnONADNbWOsRL288NJoIoQIPQAl0M/view?usp=sharing)
 
 - ⚡ Fun fact **I've a good sense of humour and I love to work in a team.**
 
