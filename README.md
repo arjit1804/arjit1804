@@ -5,9 +5,9 @@
 
 - 🌱 I’m familiar with **FastAPI, Gunicorn, Pytest, Android Studio, Apache Kafka, Pyspark, PySQL**
 
-- 📫 How to reach me **arjitmishra1804@gmail.com**
+- 📫 Contaxt me at **arjitmishra1804@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dRjMnONADNbWOsRL288NJoIoQIPQAl0M/view?usp=sharing](https://drive.google.com/file/d/1dRjMnONADNbWOsRL288NJoIoQIPQAl0M/view?usp=sharing)
+- 📄 Know about my experiences (Arjit's Resume)[https://drive.google.com/file/d/1dRjMnONADNbWOsRL288NJoIoQIPQAl0M/view?usp=sharing](https://drive.google.com/file/d/1dRjMnONADNbWOsRL288NJoIoQIPQAl0M/view?usp=sharing)
 
 - ⚡ Fun fact **I've a good sense of humour and I love to work in a team.**
 
