@@ -7,7 +7,7 @@
 
 - 📫 Contact me at **arjitmishra1804@gmail.com**
 
-- 📄 Know about my experiences [Arjit's Resume](https://drive.google.com/file/d/1dRjMnONADNbWOsRL288NJoIoQIPQAl0M/view?usp=sharing)
+- 📄 Know about my experiences [Arjit's Resume](https://drive.google.com/file/d/1st9FS-eDCyUZN4D3Jp2mPwJt91J41h4Z/view?usp=sharing)
 
 - ⚡ Fun fact **I've a good sense of humour and I love to work in a team.**
 
